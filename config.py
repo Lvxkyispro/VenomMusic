@@ -25,7 +25,7 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002275427766"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002060133086"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "6652287427"))
