@@ -88,21 +88,21 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "START_IMG_URL", "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "PING_IMG_URL", "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+PLAYLIST_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+STATS_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/P9rQkKK/photo-2024-10-11-09-18-45-7424447774021648440.jpg"
 
 
 def time_to_seconds(time):
