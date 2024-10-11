@@ -38,7 +38,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-8247e245-efcb-4776-b918-db46990f
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/venombolteop/VenomMusic",
+    "https://github.com/Lvxkyispro/VenomMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -69,7 +69,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @Venom_string_robot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQFMn40Akh2e4ypGuPBvFUlI6DW2axodhEaC94xkmb5U_2lbJHDfDd2WV2LXPKb7x5N-LBdxy1FcX5GTrcQ6KNaukQDLsvSyZmCX8eKr7agtuaKyVSAQRfmh5Z98nGUFAuVW9K-Ud8qI3T4vV_jl7sul6wbZrbcvQVQIiOEND3BwCbExhvkTSeZki0pjiYuM-R-g5qyqVZHC6Sg52TFkOjAa9pZCDTeVPcK1oHN4sVMIpGBwGsSl3q11ES9e5MiNNWXwxylzibAJKbhjp0NJzOeYNHz-Y2uBF7e6PjXvWf0cfEJP-hzQvKIuIGonN5EyN2icXoOOiTQpFEYrYMGEzoDfZd4OgQAAAAHJ7ASdAA")
+STRING1 = getenv("STRING_SESSION", "BQFMn40AhgyQA5FOn4M26IwuzDeCwkFzpVppNWNZ3MhNSneMfWgcDuMlTns5QBfK2_l6cvPXO3V76pV62mfGe5WguvHjiqRcIF3hBR27iBpSmgaNMFYIG_YPpMjyqt7icb3yZjo_b-RQ0TavBXTWuZq1dvTyrrDTzFHlVLhIG7tGesSCtxCf9yOi06xttPTTSu7_XfcXYP72O89KV-hekq3Y30CrfMyLVWGhjjSBsvLDwLiEIL9gQFgkiRdYae4v4nQbw0q-_8f9M6GSJeDBEOA9Y2wHJHBkReSs0zojlxsjxlvnlWXKmK2S9yhZXPyigsjVeeEEdC-KiU-Ayrt1DFUyeBBmJgAAAAHJ7ASdAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
