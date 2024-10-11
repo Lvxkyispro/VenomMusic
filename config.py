@@ -53,8 +53,8 @@ AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "false")
 AUTO_SUGGESTION_TIME = int(
     getenv("AUTO_SUGGESTION_TIME", "5400"))
 # Get this credentials from https://developer.spotify.com/dashboard
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "")
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "")
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "36e6dbc137e94481b5730491a79307cd")
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "e6cf521a77f94d69b604d1f679790104")
 
 
 # Maximum limit for fetching playlist's track from youtube, spotify, apple links.
