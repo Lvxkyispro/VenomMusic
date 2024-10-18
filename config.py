@@ -10,11 +10,11 @@ load_dotenv()
 API_KEY = getenv("API_KEY", "3f121b552c3a7a6f0e63aff1c2a423fc") 
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "21798797"))
-API_HASH = getenv("API_HASH","af816ef60922b5fc17480f261c3619a0")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH","")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7761474583:AAFppZ7FIH9LTxJluNA_KAhK8J0yof8fn1s")
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Arman121:Arman121@arman.ji8gqxd.mongodb.net/?retryWrites=true&w=majority")
@@ -28,7 +28,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002060133086"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6652287427"))
+OWNER_ID = int(getenv("OWNER_ID", ""))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -69,7 +69,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @Venom_string_robot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQFMn40AhgyQA5FOn4M26IwuzDeCwkFzpVppNWNZ3MhNSneMfWgcDuMlTns5QBfK2_l6cvPXO3V76pV62mfGe5WguvHjiqRcIF3hBR27iBpSmgaNMFYIG_YPpMjyqt7icb3yZjo_b-RQ0TavBXTWuZq1dvTyrrDTzFHlVLhIG7tGesSCtxCf9yOi06xttPTTSu7_XfcXYP72O89KV-hekq3Y30CrfMyLVWGhjjSBsvLDwLiEIL9gQFgkiRdYae4v4nQbw0q-_8f9M6GSJeDBEOA9Y2wHJHBkReSs0zojlxsjxlvnlWXKmK2S9yhZXPyigsjVeeEEdC-KiU-Ayrt1DFUyeBBmJgAAAAHJ7ASdAA")
+STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
